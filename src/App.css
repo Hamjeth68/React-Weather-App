@@ -1,0 +1,141 @@
+.weather-icon {
+  width: 135px;
+  float: left;
+}
+.App {
+  background: linear-gradient(
+    #073362,
+    #073362,
+    #093962,
+    #05388e,
+    #2143b3,
+    #4250b7,
+    #5569ba,
+    #5569ba,
+    #5b6fbb,
+    #657cbb,
+    #6178bb
+  );
+}
+
+.form-control {
+  font-family: sans-serif;
+  display: block;
+  width: 100%;
+  padding: 0.375 rem 0.75 rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1 px solid #ced4da;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: 1.25 rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+img {
+  align-self: flex-start;
+}
+
+.font-link {
+  font-family: sans-serif;
+}
+
+.col-form-label {
+  text-decoration-color: blanchedalmond;
+}
+
+.mt-3 {
+  vertical-align: middle;
+}
+
+.d-flex {
+  padding-block-start: 10px;
+  color: wheat;
+}
+
+.flex-container {
+  align-content: flex-start;
+  align-items: flex-start;
+}
+
+.h2 {
+  text-align: left;
+  font-family: sans-serif;
+}
+
+.h5 {
+  text-align: left;
+  font-family: sans-serif;
+}
+
+.image-holder {
+  justify-content: flex-start;
+}
+
+.container {
+  padding: 0px;
+}
+
+.font-tx {
+  font-family: sans-serif;
+  font-size: small;
+}
+
+.input-sec {
+  padding: 25px;
+  margin-bottom: 10px;
+  width: 100%;
+  font-family: sans-serif;
+}
+.line {
+  background-color: gold;
+}
+
+.crad-text {
+  text-align: center;
+}
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1 px solid rgba(255, 166, 0, 0.125);
+  border-radius: 0.25 rem;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.card-body {
+  padding: 1 rem 1 rem;
+  font-family: sans-serif;
+}
+
+.vl {
+  border-left: 6px solid rgb(255, 252, 60);
+  height: 250px;
+  position: absolute;
+  left: 55%;
+  margin-left: -3px;
+  top: 0;
+}
+
+.footer {
+  background: #0d6efd;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  right: 0;
+  font-family: sans-serif;
+}
